@@ -1,5 +1,5 @@
-# Sefer Typeset
+# Ner Tzafun
 
-Installers and automatic updates for Sefer Typeset, a Windows app for typesetting Hebrew sefarim.
+Installers and automatic updates for Ner Tzafun (formerly Sefer Typeset), a Windows app for typesetting Hebrew sefarim.
 
-Download the newest installer (Sefer-Typeset_..._x64-setup.exe) from Releases. Once installed, the app finds new versions itself.
+Download the newest installer (Ner-Tzafun_..._x64-setup.exe) from Releases. Once installed, the app finds new versions itself.
